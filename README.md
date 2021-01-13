@@ -13,8 +13,8 @@ Fitness website to be linked with a fitness app. Started as a school project.
 * Responsive Design.
 * Portfolio Template.
 * Unique and Dynamic Design.
-* Contains HOME, CATEGORY, ARCHIVE, PAGES, CONTACT and many other sections.
+* Contains HOME, ABOUT, SERVICES, CLASSES, SCHEDULE ,PRICE and many other sections.
 
 ## Project Preview:
 
-(https://mian-ali.github.io/Blooger-website/)
+(https://mian-ali.github.io/GymWebsite/)
