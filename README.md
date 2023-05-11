@@ -1,6 +1,6 @@
 ## Gym Fitness Website
 
-Fitness website to be linked with a fitness app. Started as a school project.
+This repository contains the source code for a gym website, implemented as a single page application (SPA) using HTML, CSS, and JavaScript.
 
 ## Technologies Used:
 
